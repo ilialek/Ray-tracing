@@ -1,4 +1,4 @@
-# Unity Ray Tracer (Shader-Based)
+# Unity Ray Tracer
 
 This project is a GPU ray tracer written in HLSL and integrated into Unity via an unlit shader. It demonstrates ray tracing with support for specular highlights, multiple bounces, and progressive frame accumulation.
 
